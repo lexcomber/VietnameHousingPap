@@ -1,3 +1,5 @@
+This repository contains the data and code used a recent paper submitted to the Annals of the AAG.
+
 # Title: The application of a geographically weighted locally-compensated ridge models to understand the drivers house price in Hà Nội, Vietnam
 
 Alexis Comber1, Khanh Chi2, Man Quang Huy3, Quan Nguyen4, Binbin Lu5, Hoang Huu Phe6 and Paul Harris7 
